@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Kelia 👋
 
 💻 **Aspiring Web Developer** | 🌍 **French Enthusiast**  
 🚀 Passionate about building **clean, responsive websites** and mastering **Git & Web Development**
