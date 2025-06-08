@@ -8,19 +8,13 @@
 ### 🛠 **Tech Stack**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 🛠 **Currently Learning:** TypeScript, Building Projects with APIs (Async/Await, Fetch)  
@@ -36,7 +30,6 @@
 
 ### 📊 **GitHub Stats**
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelia01&show_icons=true&theme=radical)
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kelia01&theme=dracula)
 
 ---
 
