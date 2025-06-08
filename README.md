@@ -14,8 +14,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-🛠 **Currently Learning:** Advanced Git (Rebase, PRs, Conflict Resolution), Website Deployment  
+🛠 **Currently Learning:** TypeScript, Building Projects with APIs (Async/Await, Fetch)  
 📚 **Languages:** English, French (Intermediate)
 
 ---
