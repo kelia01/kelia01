@@ -17,7 +17,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-🛠 **Currently Learning:** TypeScript, Building Projects with APIs (Async/Await, Fetch)  
+🛠 **Currently Learning:** React with TypeScript
 📚 **Languages:** English, French (Intermediate)
 
 ---
