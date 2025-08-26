@@ -11,16 +11,15 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ![trello](https://img.shields.io/badge/Trello-181717?style=for-the-badge&logo=trello&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-20232a?style=for-the-badge&logo=prettier&logoColor=61DAFB)
+![Notion](https://img.shields.io/badge/Notion-3178C6?style=for-the-badge&logo=notion&logoColor=white)
+![Thunkable](https://img.shields.io/badge/Thunkable-F24E1E?style=for-the-badge&logo=thunkable&logoColor=white)
 
 🛠 **Currently Learning:** React with TypeScript
 📚 **Languages:** English, French (Intermediate)
