@@ -26,8 +26,7 @@
 ![Prettier](https://img.shields.io/badge/Prettier-20232a?style=for-the-badge&logo=prettier&logoColor=61DAFB)
 ![Notion](https://img.shields.io/badge/Notion-3178C6?style=for-the-badge&logo=notion&logoColor=white)
 ![Thunkable](https://img.shields.io/badge/Thunkable-F24E1E?style=for-the-badge&logo=thunkable&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Agile](https://img.shields.io/badge/Agile🚀-F68B1F?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-F68B1F?style=for-the-badge)
 
 🛠 **Currently Learning:** Node js
 📚 **Languages:** English, French (Intermediate)
