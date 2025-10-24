@@ -33,14 +33,9 @@
 
 ---
 
-### 🚀 **Featured Projects**
-
-- 💾 **[GitHub Automation](https://github.com/kelia01/github-automation-tool)** — A CLI tool for automating Git workflows.
-
----
-
 ### 📊 **GitHub Stats**
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelia01&show_icons=true&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kelia01&theme=github-dark-blue&hide_border=true&timestamp=202510261600" alt="kelia01's GitHub Streak" height="200"/>
 
 ---
 
